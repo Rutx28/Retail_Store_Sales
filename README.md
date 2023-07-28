@@ -1,4 +1,4 @@
-# Retail_Store_Sales
+# Retail Store Sales
 
 ## Abstract
 The forecasting of sales forms the foundation of maximizing profits and successful planning operation at the start of the fiscal year for Business to consumer (B2C) models like Walmart retail chain. It is paramount for such companies to understand the needs and buying pattern of their customers. This paper puts forth some crucial sales visualizations that can prove indispensable to a store manager and performs a comprehensive evaluation of the different forecasting models to predict sales of a retail chain. One of the chief goals of the paper is to determine prediction models that can accommodate the seasonality in sales during four holidays.
